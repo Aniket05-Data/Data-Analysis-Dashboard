@@ -18,15 +18,16 @@ This project is an interactive Tableau dashboard that visualizes global COVID-19
 - **Cases by Continent:** Pie chart illustrating the proportion of cases contributed by each continent.
 - **All Data Table:** Detailed tabular view of key metrics for every country in the dataset.
 
-## Dashboard (View)
-
-- https://github.com/Aniket05-Data/Data-Analysis-Dashboard/edit/main/Dashboard%202.png
-
 - ## Objectives
 
 - Provide a user-friendly tool for visualizing and understanding global COVID-19 data.
 - Enable identification of hotspots, trends, and patterns at both country and continent levels.
 - Support public health analysis, reporting, and awareness with clear, interactive visuals
+
+## Dashboard (View)
+
+![Dashboard 2](https://github.com/user-attachments/assets/fc5d9035-35b2-46af-80dc-8bef4031c72b)
+
 
 
 - 
