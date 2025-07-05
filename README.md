@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-This project features an interactive Tableau dashboard using Worldometer COVID-19 data. It offers visual insights into global trends, allowing users to compare countries and continents, and analyze key metrics like confirmed cases, deaths, and recoveries.
+# COVID-19 Global Dashboard
+
+This project is an interactive Tableau dashboard that visualizes global COVID-19 statistics using the Worldometer dataset. The dashboard provides a comprehensive overview of the pandemic's impact across countries and continents, enabling users to explore, compare, and analyze key metrics and trends.
